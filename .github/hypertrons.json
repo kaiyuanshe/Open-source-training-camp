@@ -1,0 +1,7 @@
+{
+  "auto_update_contribution": {
+    "version": 1,
+    "sched": "0 0 22 * * *",
+    "roles": ["contributor", "participant", "follower"]
+  }
+}
