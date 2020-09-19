@@ -179,11 +179,16 @@
 ![follower](http://github.zhangqx.com/data/github/1499140578/Medical-AI?type=follower)
 ![activity](http://github.zhangqx.com/data/github/1499140578/Medical-AI?type=activity)
 
-## [XieLingfan/ChatSystem](https://github.com/XieLingfan/ChatSystem)
+## [XieLingfan/algorithm-computerKnowledge](https://github.com/XieLingfan/algorithm-computerKnowledge)
 
 ### 成员
 
 [@XieLingfan](https://github.com/XieLingfan)
+[@YuanXDD](https://github.com/YuanXDD)
+[@Ju-si-yuan](https://github.com/Ju-si-yuan)
+[@YuChangHui](https://github.com/YuChangHui)
+[@JohnLizt](https://github.com/JohnLizt)
+
 
 ### 文件状态检查
 
