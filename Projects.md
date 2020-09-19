@@ -273,3 +273,20 @@
 ### 成员
 
 [@yjl705](https://github.com/yjl705)
+
+### 文件状态检查
+
+![license](http://github.zhangqx.com/file-checker/github/yjl705/Clock-miniprogram?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/yjl705/Clock-miniprogram?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/yjl705/Clock-miniprogram?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/yjl705/Clock-miniprogram?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/yjl705/Clock-miniprogram?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/yjl705/Clock-miniprogram?path=.github/PULL_REQUEST_TEMPLATE.md)
+
+### 项目数据统计
+
+![contributor](http://github.zhangqx.com/data/github/yjl705/Clock-miniprogram?type=contributor)
+![participant](http://github.zhangqx.com/data/github/yjl705/Clock-miniprogram?type=participant)
+![follower](http://github.zhangqx.com/data/github/yjl705/Clock-miniprogram?type=follower)
+![activity](http://github.zhangqx.com/data/github/yjl705/Clock-miniprogram?type=activity)
+
