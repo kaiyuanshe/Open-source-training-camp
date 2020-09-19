@@ -189,7 +189,6 @@
 [@YuChangHui](https://github.com/YuChangHui)
 [@JohnLizt](https://github.com/JohnLizt)
 
-
 ### 文件状态检查
 
 ![license](http://github.zhangqx.com/file-checker/github/XieLingfan/ChatSystem?path=LICENSE)
