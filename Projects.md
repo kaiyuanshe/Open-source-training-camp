@@ -191,19 +191,19 @@
 
 ### 文件状态检查
 
-![license](http://github.zhangqx.com/file-checker/github/XieLingfan/ChatSystem?path=LICENSE)
-![readme](http://github.zhangqx.com/file-checker/github/XieLingfan/ChatSystem?path=README.md)
-![contributing](http://github.zhangqx.com/file-checker/github/XieLingfan/ChatSystem?path=CONTRIBUTING.md)
-![coc](http://github.zhangqx.com/file-checker/github/XieLingfan/ChatSystem?path=CODE_OF_CONDUCT.md)
-![codestyle](http://github.zhangqx.com/file-checker/github/XieLingfan/ChatSystem?path=CODE_STYLE.md)
-![pulltemplate](http://github.zhangqx.com/file-checker/github/XieLingfan/ChatSystem?path=.github/PULL_REQUEST_TEMPLATE.md)
+![license](http://github.zhangqx.com/file-checker/github/XieLingfan/algorithm-computerKnowledge?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/XieLingfan/algorithm-computerKnowledge?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/XieLingfan/algorithm-computerKnowledge?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/XieLingfan/algorithm-computerKnowledge?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/XieLingfan/algorithm-computerKnowledge?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/XieLingfan/algorithm-computerKnowledge?path=.github/PULL_REQUEST_TEMPLATE.md)
 
 ### 项目数据统计
 
-![contributor](http://github.zhangqx.com/data/github/XieLingfan/ChatSystem?type=contributor)
-![participant](http://github.zhangqx.com/data/github/XieLingfan/ChatSystem?type=participant)
-![follower](http://github.zhangqx.com/data/github/XieLingfan/ChatSystem?type=follower)
-![activity](http://github.zhangqx.com/data/github/XieLingfan/ChatSystem?type=activity)
+![contributor](http://github.zhangqx.com/data/github/XieLingfan/algorithm-computerKnowledge?type=contributor)
+![participant](http://github.zhangqx.com/data/github/XieLingfan/algorithm-computerKnowledge?type=participant)
+![follower](http://github.zhangqx.com/data/github/XieLingfan/algorithm-computerKnowledge?type=follower)
+![activity](http://github.zhangqx.com/data/github/XieLingfan/algorithm-computerKnowledge?type=activity)
 
 ## [lfylfy027/MyQQ](https://github.com/lfylfy027/MyQQ)
 
