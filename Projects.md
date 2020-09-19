@@ -290,3 +290,25 @@
 ![follower](http://github.zhangqx.com/data/github/yjl705/Clock-miniprogram?type=follower)
 ![activity](http://github.zhangqx.com/data/github/yjl705/Clock-miniprogram?type=activity)
 
+
+## [Software-skill-learning](https://github.com/wcwupupup/Software-skill-learning)
+
+### 成员
+
+[@wencw](https://github.com/wcwupupup) [@xfeng](https://github.com/xfeng96) [@demon](https://github.com/demon143) [@Commatc](https://github.com/Commatc)[@themingrey](https://github.com/themingrey)
+
+### 文件状态检查
+
+![license](http://github.zhangqx.com/file-checker/github/wcwupupup/Software-skill-learning?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/wcwupupup/Software-skill-learning?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/wcwupupup/Software-skill-learning?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/wcwupupup/Software-skill-learning?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/wcwupupup/Software-skill-learning?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/wcwupupup/Software-skill-learning?path=.github/PULL_REQUEST_TEMPLATE.md)
+
+### 项目数据统计
+
+![contributor](http://github.zhangqx.com/data/github/wcwupupup/Software-skill-learning?type=contributor)
+![participant](http://github.zhangqx.com/data/github/wcwupupup/Software-skill-learning?type=participant)
+![follower](http://github.zhangqx.com/data/github/wcwupupup/Software-skill-learning?type=follower)
+![activity](http://github.zhangqx.com/data/github/wcwupupup/Software-skill-learning?type=activity)
