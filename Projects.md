@@ -209,7 +209,7 @@
 
 ### 成员
 
-[@lfylfy027](https://github.com/lfylfy027)
+[@lfylfy027](https://github.com/lfylfy027)[@01000011-43](https://github.com/01000011-43)[@callumyang](https://github.com/callumyang)[@hopeloop](https://github.com/hopeloop)[@chen-xling](https://github.com/chen-xling)
 
 ### 文件状态检查
 
