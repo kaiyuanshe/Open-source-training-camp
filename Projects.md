@@ -318,3 +318,24 @@
 ![activity](http://github.zhangqx.com/data/github/wcwupupup/Software-skill-learning?type=activity)
 
 
+## [Logistics-System-Simulator](https://github.com/AHAzbh/Logistics-System-Simulator)
+
+### 成员
+
+[@he-mixedSon](https://github.com/he-mixedSon) [@IntroDrop](https://github.com/IntroDrop) [@Musan-0420](https://github.com/Musan-0420) [@muxiaobao](https://github.com/muxiaobao)[@pkuliuuu](https://github.com/pkuliuuu)[qianlian1992](https://github.com/qianlian1992)[renwei](https://github.com/renanxin)[Ydongd](https://github.com/Ydongd)[zplovekq](https://github.com/zplovekq)
+
+### 文件状态检查
+
+![license](http://github.zhangqx.com/file-checker/github/AHAzbh/Logistics-System-Simulator?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/AHAzbh/Logistics-System-Simulator?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/AHAzbh/Logistics-System-Simulator?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/AHAzbh/Logistics-System-Simulator?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/AHAzbh/Logistics-System-Simulator?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/AHAzbh/Logistics-System-Simulator?path=.github/PULL_REQUEST_TEMPLATE.md)
+
+### 项目数据统计
+
+![contributor](http://github.zhangqx.com/data/github/AHAzbh/Logistics-System-Simulator?type=contributor)
+![participant](http://github.zhangqx.com/data/github/AHAzbh/Logistics-System-Simulator?type=participant)
+![follower](http://github.zhangqx.com/data/github/AHAzbh/Logistics-System-Simulator?type=follower)
+![activity](http://github.zhangqx.com/data/github/AHAzbh/Logistics-System-Simulator?type=activity)
