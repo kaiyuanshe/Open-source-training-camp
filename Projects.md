@@ -362,3 +362,32 @@
 ![participant](http://github.zhangqx.com/data/github/Louis-J/HUILV?type=participant)
 ![follower](http://github.zhangqx.com/data/github/Louis-J/HUILV?type=follower)
 ![activity](http://github.zhangqx.com/data/github/Louis-J/HUILV?type=activity)
+
+
+
+
+
+## [CodeVisCityTeam/CodeVis-City](https://github.com/CodeVisCityTeam/CodeVis-City)
+
+### 成员
+
+[@softwareX4](https://github.com/softwareX4)  [@lypnaruto](https://github.com/lypnaruto) [@zbtzbtzbt](https://github.com/zbtzbtzbt) [@Wangyx-Max](https://github.com/Wangyx-Max)  [@jaydu08](https://github.com/jaydu08) [@yumingyue98](https://github.com/yumingyue98) [@deeryizhixiaolu](https://github.com/deeryizhixiaolu) [@ljcbling](https://github.com/ljcbling) [@HaarlemTHU  ]( https://github.com/HaarlemTHU ) [@monday2222](https://github.com/monday2222)
+
+### 文件状态检查
+
+![license](http://github.zhangqx.com/file-checker/github/CodeVisCityTeam/CodeVis-City?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/CodeVisCityTeam/CodeVis-City?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/CodeVisCityTeam/CodeVis-City?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/CodeVisCityTeam/CodeVis-City?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/CodeVisCityTeam/CodeVis-City?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/CodeVisCityTeam/CodeVis-City?path=.github/pull_request_template.md)
+
+### 项目数据统计
+
+![contributor](http://github.zhangqx.com/data/github/CodeVisCityTeam/CodeVis-City?type=contributor)
+![participant](http://github.zhangqx.com/data/github/CodeVisCityTeam/CodeVis-City?type=participant)
+![follower](http://github.zhangqx.com/data/github/CodeVisCityTeam/CodeVis-City?type=follower)
+![activity](http://github.zhangqx.com/data/github/CodeVisCityTeam/CodeVis-City?type=activity)
+
+
+
