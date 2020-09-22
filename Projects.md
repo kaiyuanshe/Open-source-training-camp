@@ -209,7 +209,7 @@
 
 ### 成员
 
-[@lfylfy027](https://github.com/lfylfy027)
+[@lfylfy027](https://github.com/lfylfy027) [@01000011-43](https://github.com/01000011-43) [@callumyang](https://github.com/callumyang) [@hopeloop](https://github.com/hopeloop) [@chen-xling](https://github.com/chen-xling)
 
 ### 文件状态检查
 
@@ -319,6 +319,7 @@
 
 # **[Open-source-project-team_2020](https://github.com/YuRui997/Open-source-project-team_2020)**
 
+
 ## **成员**
 
 [@Alicesla](https://github.com/Alicesla) [@YuRui997](https://github.com/YuRui997) [@fdsxcz](https://github.com/fdsxcz)  [@lemondante](https://github.com/lemondante)  [@night1156](https://github.com/night1156) [@npnv](https://github.com/npnv)   [@Bug-terminator](https://github.com/Bug-terminator) 
@@ -337,4 +338,73 @@
 ![contributor](http://github.zhangqx.com/data/github/Alicesla/Open-source-project-team_2020?type=contributor)
 ![participant](http://github.zhangqx.com/data/github/Alicesla/Open-source-project-team_2020?type=participant)
 ![follower](http://github.zhangqx.com/data/github/Alicesla/Open-source-project-team_2020?type=follower)
+
 ![activity](http://github.zhangqx.com/data/github/Alicesla/Open-source-project-team_2020?type=activity)
+=======
+## [Logistics-System-Simulator](https://github.com/AHAzbh/Logistics-System-Simulator)
+
+### 成员
+
+[@he-mixedSon](https://github.com/he-mixedSon) [@IntroDrop](https://github.com/IntroDrop) [@Musan-0420](https://github.com/Musan-0420) [@muxiaobao](https://github.com/muxiaobao)[@pkuliuuu](https://github.com/pkuliuuu)[qianlian1992](https://github.com/qianlian1992)[renwei](https://github.com/renanxin)[Ydongd](https://github.com/Ydongd)[zplovekq](https://github.com/zplovekq)
+
+### 文件状态检查
+
+![license](http://github.zhangqx.com/file-checker/github/AHAzbh/Logistics-System-Simulator?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/AHAzbh/Logistics-System-Simulator?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/AHAzbh/Logistics-System-Simulator?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/AHAzbh/Logistics-System-Simulator?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/AHAzbh/Logistics-System-Simulator?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/AHAzbh/Logistics-System-Simulator?path=.github/PULL_REQUEST_TEMPLATE.md)
+
+### 项目数据统计
+
+![contributor](http://github.zhangqx.com/data/github/AHAzbh/Logistics-System-Simulator?type=contributor)
+![participant](http://github.zhangqx.com/data/github/AHAzbh/Logistics-System-Simulator?type=participant)
+![follower](http://github.zhangqx.com/data/github/AHAzbh/Logistics-System-Simulator?type=follower)
+![activity](http://github.zhangqx.com/data/github/AHAzbh/Logistics-System-Simulator?type=activity)
+
+
+## [Louis-J/HUILV](https://github.com/Louis-J/HUILV)
+
+### 成员
+
+[@Louis-J](https://github.com/Louis-J) [@Kenscofield](https://github.com/Kenscofield) [@VanishingCake](https://github.com/VanishingCake)
+
+### 文件状态检查
+
+![license](http://github.zhangqx.com/file-checker/github/Louis-J/HUILV?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/Louis-J/HUILV?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/Louis-J/HUILV?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/Louis-J/HUILV?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/Louis-J/HUILV?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/Louis-J/HUILV?path=.github/pull_request_template.md)
+
+### 项目数据统计
+
+![contributor](http://github.zhangqx.com/data/github/Louis-J/HUILV?type=contributor)
+![participant](http://github.zhangqx.com/data/github/Louis-J/HUILV?type=participant)
+![follower](http://github.zhangqx.com/data/github/Louis-J/HUILV?type=follower)
+![activity](http://github.zhangqx.com/data/github/Louis-J/HUILV?type=activity)
+
+## [CodeVisCityTeam/CodeVis-City](https://github.com/CodeVisCityTeam/CodeVis-City)
+
+### 成员
+
+[@softwareX4](https://github.com/softwareX4)  [@lypnaruto](https://github.com/lypnaruto) [@zbtzbtzbt](https://github.com/zbtzbtzbt) [@Wangyx-Max](https://github.com/Wangyx-Max)  [@jaydu08](https://github.com/jaydu08) [@yumingyue98](https://github.com/yumingyue98) [@deeryizhixiaolu](https://github.com/deeryizhixiaolu) [@ljcbling](https://github.com/ljcbling) [@HaarlemTHU  ]( https://github.com/HaarlemTHU ) [@monday2222](https://github.com/monday2222)
+
+### 文件状态检查
+
+![license](http://github.zhangqx.com/file-checker/github/CodeVisCityTeam/CodeVis-City?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/CodeVisCityTeam/CodeVis-City?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/CodeVisCityTeam/CodeVis-City?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/CodeVisCityTeam/CodeVis-City?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/CodeVisCityTeam/CodeVis-City?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/CodeVisCityTeam/CodeVis-City?path=.github/pull_request_template.md)
+
+### 项目数据统计
+
+![contributor](http://github.zhangqx.com/data/github/CodeVisCityTeam/CodeVis-City?type=contributor)
+![participant](http://github.zhangqx.com/data/github/CodeVisCityTeam/CodeVis-City?type=participant)
+![follower](http://github.zhangqx.com/data/github/CodeVisCityTeam/CodeVis-City?type=follower)
+![activity](http://github.zhangqx.com/data/github/CodeVisCityTeam/CodeVis-City?type=activity)
+>>>>>>> upstream/master
