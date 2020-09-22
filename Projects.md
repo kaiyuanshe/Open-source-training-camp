@@ -374,6 +374,7 @@
 
 ![license](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=LICENSE)
 ![readme](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=CONTRIBUTING.md)
 ![coc](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=CODE_OF_CONDUCT.md)
 ![codestyle](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=CODE_STYLE.md)
 ![pulltemplate](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=.github/PULL_REQUEST_TEMPLATE.md)
