@@ -393,7 +393,7 @@
 
 ### 成员
 
-[@Skyseaee](https://github.com/Skyseaee) [@haiyun549](https://github.com/haiyun549) [@keira-hq](https://github.com/keira-hq) [@callmeahh](https://github.com/callmeahh) [@YoungWiz](https://github.com/YoungWiz) [sharonwang1220](https://github.com/sharonwang1220)
+[@Skyseaee](https://github.com/Skyseaee) [@haiyun549](https://github.com/haiyun549) [@keira-hq](https://github.com/keira-hq) [@callmeahh](https://github.com/callmeahh) [@YoungWiz](https://github.com/YoungWiz) [@sharonwang1220](https://github.com/sharonwang1220)
 
 ### 文件状态检查
 
