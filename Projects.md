@@ -385,21 +385,11 @@
 ![follower](http://github.zhangqx.com/data/github/CodeVisCityTeam/CodeVis-City?type=follower)
 ![activity](http://github.zhangqx.com/data/github/CodeVisCityTeam/CodeVis-City?type=activity)
 
-## machineLearning
+## [machineLearning](https://github.com/aaa2222339/machineLearning)
 
 ### 成员
 
-[aaa2222339](https://github.com/aaa2222339)
-
-[miaomiao224](https://github.com/miaomiao224)
-
-[yanghui1216](https://github.com/yanghui1216)
-
-[sybilsibyl](https://github.com/sybilsibyl)
-
-[sciengineer-97](sciengineer-97)
-
-[FoolBit](https://github.com/FoolBit)
+[@aaa2222339](https://github.com/aaa2222339)[@miaomiao224](https://github.com/miaomiao224)[@yanghui1216](https://github.com/yanghui1216)[@sybilsibyl](https://github.com/sybilsibyl)[@sciengineer-97](sciengineer-97)[@FoolBit](https://github.com/FoolBit)
 
 ### 文件状态检查
 
