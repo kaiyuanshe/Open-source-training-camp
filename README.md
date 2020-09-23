@@ -1,5 +1,10 @@
 # 开源特训营
 
+![contributor](http://github.zhangqx.com/data/github/kaiyuanshe/Open-source-training-camp?type=contributor)
+![participant](http://github.zhangqx.com/data/github/kaiyuanshe/Open-source-training-camp?type=participant)
+![follower](http://github.zhangqx.com/data/github/kaiyuanshe/Open-source-training-camp?type=follower)
+![activity](http://github.zhangqx.com/data/github/kaiyuanshe/Open-source-training-camp?type=activity)
+
 > 本训练营将教你如何将自己的项目开源到互联网。
 
 开源技术发展至今，有必要回顾一下开源的历史，了解其中的技术演变与发展趋势，概括而言分为四个阶段：
