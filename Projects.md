@@ -341,18 +341,13 @@
 ![activity](http://github.zhangqx.com/data/github/AHAzbh/Logistics-System-Simulator?type=activity)
 
 
-
 ## [pkuopenlearning](https://github.com/tong-shao/pkuopenlearning)
-
 
 ### 成员
 
-
 [@tong-shao](https://github.com/tong-shao) [@Alex-9827](https://github.com/Alex-9827) [@laikaiting](https://github.com/laikaiting) [@huaizhong1997](https://github.com/huaizhong1997)
 
-
 ### 文件状态检查
-
 
 ![license](http://github.zhangqx.com/file-checker/github/tong-shao/pkuopenlearning?path=LICENSE)
 ![readme](http://github.zhangqx.com/file-checker/github/tong-shao/pkuopenlearning?path=README.md)
@@ -361,14 +356,13 @@
 ![codestyle](http://github.zhangqx.com/file-checker/github/tong-shao/pkuopenlearning?path=CODE_STYLE.md)
 ![pulltemplate](http://github.zhangqx.com/file-checker/github/tong-shao/pkuopenlearning?path=.github/PULL_REQUEST_TEMPLATE.md)
 
-
 ### 项目数据统计
-
 
 ![contributor](http://github.zhangqx.com/data/github/tong-shao/pkuopenlearning?type=contributor)
 ![participant](http://github.zhangqx.com/data/github/tong-shao/pkuopenlearning?type=participant)
 ![follower](http://github.zhangqx.com/data/github/tong-shao/pkuopenlearning?type=follower)
 ![activity](http://github.zhangqx.com/data/github/tong-shao/pkuopenlearning?type=activity)
+
 
 ## [Louis-J/HUILV](https://github.com/Louis-J/HUILV)
 
@@ -414,4 +408,27 @@
 ![participant](http://github.zhangqx.com/data/github/CodeVisCityTeam/CodeVis-City?type=participant)
 ![follower](http://github.zhangqx.com/data/github/CodeVisCityTeam/CodeVis-City?type=follower)
 ![activity](http://github.zhangqx.com/data/github/CodeVisCityTeam/CodeVis-City?type=activity)
+
+
+## [machineLearning](https://github.com/aaa2222339/machineLearning)
+
+### 成员
+
+[@aaa2222339](https://github.com/aaa2222339)[@miaomiao224](https://github.com/miaomiao224)[@yanghui1216](https://github.com/yanghui1216)[@sybilsibyl](https://github.com/sybilsibyl)[@sciengineer-97](sciengineer-97)[@FoolBit](https://github.com/FoolBit)
+
+### 文件状态检查
+
+![license](http://github.zhangqx.com/file-checker/github/aaa2222339/machineLearning?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/aaa2222339/machineLearning?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/aaa2222339/machineLearning?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/aaa2222339/machineLearning?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/aaa2222339/machineLearning?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/aaa2222339/machineLearning?path=.github/PULL_REQUEST_TEMPLATE.md)
+
+### 项目数据统计
+
+![contributor](http://github.zhangqx.com/data/github/aaa2222339/machineLearning?type=contributor)
+![participant](http://github.zhangqx.com/data/github/aaa2222339/machineLearning?type=participant)
+![follower](http://github.zhangqx.com/data/github/aaa2222339/machineLearning?type=follower)
+![activity](http://github.zhangqx.com/data/github/aaa2222339/machineLearning?type=activity)
 
