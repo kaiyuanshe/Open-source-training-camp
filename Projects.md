@@ -407,7 +407,7 @@
 ![follower](http://github.zhangqx.com/data/github/aaa2222339/machineLearning?type=follower)
 ![activity](http://github.zhangqx.com/data/github/aaa2222339/machineLearning?type=activity)
 
-## [byrJahracal/hello-homepage](https://github.com/byrJahracal/hello-homepage.git)
+## [byrJahracal/hello-homepage](https://github.com/byrJahracal/hello-homepage)
 
 ### 成员
 
