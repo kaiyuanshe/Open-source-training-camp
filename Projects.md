@@ -2,8 +2,6 @@
 
 本文档用于记录所有已经申报的项目列表，欢迎各位同学一起完善。
 
- ![license](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=LICENSE)![readme](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=README.md)![coc](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=CODE_OF_CONDUCT.md)![codestyle](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=CODE_STYLE.md)![pulltemplate](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=.github/PULL_REQUEST_TEMPLATE.md)|
-=======
 ## [hu-qi/30-days-of-react-native](https://github.com/hu-qi/30-days-of-react-native)
 
 ### 成员
