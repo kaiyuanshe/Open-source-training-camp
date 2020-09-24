@@ -474,7 +474,7 @@
 ![follower](http://github.zhangqx.com/data/github/Skyseaee/TinyGame-Java?type=follower)
 ![activity](http://github.zhangqx.com/data/github/Skyseaee/TinyGame-Java?type=activity)
 
-## [apache/skywalking](https://github.com/apache/skywalking)
+## [apache/skywalking](https://github.com/apache/skywalking)（参与型项目）
 
 ### 成员
 
