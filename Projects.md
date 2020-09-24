@@ -474,10 +474,9 @@
 
 ### 项目数据统计
 
-![license](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=LICENSE)
-![readme](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=README.md)
-![contributing](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=CONTRIBUTING.md)
-![coc](http://github.zhangqx.com/file-checker/githubPerfectBlue-ly/PKUnicorn?path=Code of Conduct.md.md)
-![codestyle](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?contributions/path=codestyle.md)
-![pulltemplate](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=.github/PULL_REQUEST_TEMPLATE.md)
+![contributor](http://github.zhangqx.com/data/github/PerfectBlue-ly/PKUnicorn?type=contributor)
+![participant](http://github.zhangqx.com/data/github/PerfectBlue-ly/PKUnicorn?type=participant)
+![follower](http://github.zhangqx.com/data/github/PerfectBlue-ly/PKUnicorn?type=follower)
+![activity](http://github.zhangqx.com/data/github/Alicesla/PerfectBlue-ly/PKUnicorn?type=activity)
+
 
