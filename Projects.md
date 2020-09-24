@@ -468,7 +468,7 @@
 ![license](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=LICENSE)
 ![readme](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=README.md)
 ![contributing](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=CONTRIBUTING.md)
-![coc](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=CODE_OF_CONDUCT.md)
+![coc](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=Code_of_Conduct.md)
 ![codestyle](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=contributions/codestyle.md)
 ![pulltemplate](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=.github/PULL_REQUEST_TEMPLATE.md)
 ### 项目数据统计
