@@ -431,3 +431,48 @@
 ![participant](http://github.zhangqx.com/data/github/aaa2222339/machineLearning?type=participant)
 ![follower](http://github.zhangqx.com/data/github/aaa2222339/machineLearning?type=follower)
 ![activity](http://github.zhangqx.com/data/github/aaa2222339/machineLearning?type=activity)
+
+
+## [byrJahracal/hello-homepage](https://github.com/byrJahracal/hello-homepage)
+
+### 成员
+
+[@byrJahracal](https://github.com/byrJahracal)
+
+### 文件状态检查
+
+![license](http://github.zhangqx.com/file-checker/github/byrJahracal/hello-homepage?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/byrJahracal/hello-homepage?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/byrJahracal/hello-homepage?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/byrJahracal/hello-homepage?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/byrJahracal/hello-homepage?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/byrJahracal/hello-homepage?path=.github/PULL_REQUEST_TEMPLATE.md)
+
+### 项目数据统计
+
+![contributor](http://github.zhangqx.com/data/github/byrJahracal/hello-homepage?type=contributor)
+![participant](http://github.zhangqx.com/data/github/byrJahracal/hello-homepage?type=participant)
+![follower](http://github.zhangqx.com/data/github/byrJahracal/hello-homepage?type=follower)
+![activity](http://github.zhangqx.com/data/github/byrJahracal/hello-homepage?type=activity)
+
+## [Open-source-project-team_2020](https://github.com/YuRui997/Open-source-project-team_2020)
+
+### 成员
+
+[@Alicesla](https://github.com/Alicesla) [@YuRui997](https://github.com/YuRui997) [@fdsxcz](https://github.com/fdsxcz)  [@lemondante](https://github.com/lemondante)  [@night1156](https://github.com/night1156) [@npnv](https://github.com/npnv)   [@Bug-terminator](https://github.com/Bug-terminator) 
+
+### 文件状态检查
+
+![license](http://github.zhangqx.com/file-checker/github/Alicesla/Open-source-project-team_2020?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/Alicesla/Open-source-project-team_2020?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/Alicesla/Open-source-project-team_2020?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/Alicesla/Open-source-project-team_2020?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/Alicesla/Open-source-project-team_2020?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/Alicesla/Open-source-project-team_2020?path=.github/PULL_REQUEST_TEMPLATE.md)
+
+### 项目数据统计
+
+![contributor](http://github.zhangqx.com/data/github/Alicesla/Open-source-project-team_2020?type=contributor)
+![participant](http://github.zhangqx.com/data/github/Alicesla/Open-source-project-team_2020?type=participant)
+![follower](http://github.zhangqx.com/data/github/Alicesla/Open-source-project-team_2020?type=follower)
+![activity](http://github.zhangqx.com/data/github/Alicesla/Open-source-project-team_2020?type=activity)
