@@ -476,6 +476,6 @@
 ![contributor](http://github.zhangqx.com/data/github/PerfectBlue-ly/PKUnicorn?type=contributor)
 ![participant](http://github.zhangqx.com/data/github/PerfectBlue-ly/PKUnicorn?type=participant)
 ![follower](http://github.zhangqx.com/data/github/PerfectBlue-ly/PKUnicorn?type=follower)
-![activity](http://github.zhangqx.com/data/github/Alicesla/PerfectBlue-ly/PKUnicorn?type=activity)
+![activity](http://github.zhangqx.com/data/github/PerfectBlue-ly/PKUnicorn?type=activity)
 
 
