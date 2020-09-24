@@ -431,4 +431,3 @@
 ![participant](http://github.zhangqx.com/data/github/aaa2222339/machineLearning?type=participant)
 ![follower](http://github.zhangqx.com/data/github/aaa2222339/machineLearning?type=follower)
 ![activity](http://github.zhangqx.com/data/github/aaa2222339/machineLearning?type=activity)
-
