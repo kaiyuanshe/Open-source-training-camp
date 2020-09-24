@@ -468,8 +468,8 @@
 ![license](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/hello-homepage?path=LICENSE)
 ![readme](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/hello-homepage?path=README.md)
 ![contributing](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/hello-homepage?path=CONTRIBUTING.md)
-![coc](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/hello-homepage?path=CODE_OF_CONDUCT.md)
-![codestyle](http://github.zhangqx.com/file-checker/github/PerfectBlue-lyl/hello-homepage?path=CODE_STYLE.md)
+![coc](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/hello-homepage?path=Code of Conduct.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/PerfectBlue-lyl/hello-homepage?path=contributions/codestyle.md)
 ![pulltemplate](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/hello-homepage?path=.github/PULL_REQUEST_TEMPLATE.md)
 
 ### 项目数据统计
