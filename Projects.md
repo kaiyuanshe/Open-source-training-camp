@@ -482,7 +482,7 @@
 
 ### 文件状态检查
 
-![license](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=LICENSE)
+![license](http://github.zhangqx.com/file-checker/github/tong-shao/pkuopenlearning?path=LICENSE)
 ![readme](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=README.md)
 ![contributing](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=CONTRIBUTING.md)
 ![coc](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=CODE_OF_CONDUCT.md)
