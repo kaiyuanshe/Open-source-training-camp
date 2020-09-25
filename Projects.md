@@ -482,16 +482,16 @@
 
 ### 文件状态检查
 
-![license](http://github.zhangqx.com/file-checker/github/tong-shao/pkuopenlearning?path=LICENSE)
-![readme](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=README.md)
-![contributing](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=CONTRIBUTING.md)
-![coc](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=CODE_OF_CONDUCT.md)
-![codestyle](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=CODE_STYLE.md)
-![pulltemplate](http://github.zhangqx.com/file-checker/github/Skyseaee/TinyGame-Java?path=.github/PULL_REQUEST_TEMPLATE.md)
+![license](http://github.zhangqx.com/file-checker/github/Tong-shao/Pkuopenlearning?path=LICENSE)
+![readme](http://github.zhangqx.com/file-checker/github/Tong-shao/Pkuopenlearning?path=README.md)
+![contributing](http://github.zhangqx.com/file-checker/github/Tong-shao/Pkuopenlearning?path=CONTRIBUTING.md)
+![coc](http://github.zhangqx.com/file-checker/github/Tong-shao/Pkuopenlearning?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/Tong-shao/Pkuopenlearning?path=CODE_STYLE.md)
+![pulltemplate](http://github.zhangqx.com/file-checker/github/Tong-shao/Pkuopenlearning?path=.github/PULL_REQUEST_TEMPLATE.md)
 
 ### 项目数据统计
 
-![contributor](http://github.zhangqx.com/data/github/Skyseaee/TinyGame-Java?type=contributor)
-![participant](http://github.zhangqx.com/data/github/Skyseaee/TinyGame-Java?type=participant)
-![follower](http://github.zhangqx.com/data/github/Skyseaee/TinyGame-Java?type=follower)
-![activity](http://github.zhangqx.com/data/github/Skyseaee/TinyGame-Java?type=activity)
+![contributor](http://github.zhangqx.com/data/github/Tong-shao/Pkuopenlearning?type=contributor)
+![participant](http://github.zhangqx.com/data/github/Tong-shao/Pkuopenlearning?type=participant)
+![follower](http://github.zhangqx.com/data/github/Tong-shao/Pkuopenlearning?type=follower)
+![activity](http://github.zhangqx.com/data/github/Tong-shao/Pkuopenlearning?type=activity)
