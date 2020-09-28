@@ -451,11 +451,11 @@
 ![follower](http://github.zhangqx.com/data/github/byrJahracal/hello-homepage?type=follower)
 ![activity](http://github.zhangqx.com/data/github/byrJahracal/hello-homepage?type=activity)
 
-## [Open-source-project-team_2020](https://github.com/YuRui997/Open-source-project-team_2020)
+## [Open-source-project-team_2020](https://github.com/Alicesla/Open-source-project-team_2020)
 
 ### 成员
 
-[@Alicesla](https://github.com/Alicesla) [@YuRui997](https://github.com/YuRui997) [@fdsxcz](https://github.com/fdsxcz)  [@lemondante](https://github.com/lemondante)  [@night1156](https://github.com/night1156) [@npnv](https://github.com/npnv)   [@Bug-terminator](https://github.com/Bug-terminator) 
+[@Alicesla](https://github.com/Alicesla) [@YuRui997](https://github.com/YuRui997) [@fdsxcz](https://github.com/fdsxcz)  [@lemondante](https://github.com/lemondante)  [@night1156](https://github.com/night1156) [@npnv](https://github.com/npnv)   [@Bug-terminator](https://github.com/Bug-terminator)  [@jixiaodong97](https://github.com/jixiaodong97)
 
 
 ### 文件状态检查
@@ -528,3 +528,4 @@
 ### 成员
 
 [@vcjmhg](https://github.com/vcjmhg)
+
