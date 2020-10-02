@@ -24,7 +24,7 @@
 ![follower](http://github.zhangqx.com/data/github/hu-qi/30-days-of-react-native?type=follower)
 ![activity](http://github.zhangqx.com/data/github/hu-qi/30-days-of-react-native?type=activity)
 
-## [yufuyufuyufu/dormitory](https://github.com/yufuyufuyufu/dormitory) 
+## [yufuyufuyufu/dormitory](https://github.com/yufuyufuyufu/dormitory)
 
 ### 成员
 
@@ -45,7 +45,6 @@
 ![participant](http://github.zhangqx.com/data/github/yufuyufuyufu/dormitory?type=participant)
 ![follower](http://github.zhangqx.com/data/github/yufuyufuyufu/dormitory?type=follower)
 ![activity](http://github.zhangqx.com/data/github/yufuyufuyufu/dormitory?type=activity)
-
 
 ## [LiuYuhanMIO/Persona](https://github.com/LiuYuhanMIO/Persona)
 
@@ -74,6 +73,10 @@
 ### 成员
 
 [@RonDen](https://github.com/RonDen)
+[@ShrekPeng](https://github.com/ShrekPeng)
+[@Ada-yuhaowen](https://github.com/Ada-yuhaowen)
+[@bjtuql](https://github.com/bjtuql)
+[@Lusonluoqian](https://github.com/Lusonluoqian)
 
 ### 文件状态检查
 
@@ -271,7 +274,6 @@
 ![follower](http://github.zhangqx.com/data/github/opensource-team/Git-Github-notes-for-study?type=follower)
 ![activity](http://github.zhangqx.com/data/github/opensource-team/Git-Github-notes-for-study?type=activity)
 
-
 ## [yjl705/Clock-miniprogram](https://github.com/yjl705/Clock-miniprogram)
 
 ### 成员
@@ -293,7 +295,6 @@
 ![participant](http://github.zhangqx.com/data/github/yjl705/Clock-miniprogram?type=participant)
 ![follower](http://github.zhangqx.com/data/github/yjl705/Clock-miniprogram?type=follower)
 ![activity](http://github.zhangqx.com/data/github/yjl705/Clock-miniprogram?type=activity)
-
 
 ## [Software-skill-learning](https://github.com/wcwupupup/Software-skill-learning)
 
@@ -317,7 +318,6 @@
 ![follower](http://github.zhangqx.com/data/github/wcwupupup/Software-skill-learning?type=follower)
 ![activity](http://github.zhangqx.com/data/github/wcwupupup/Software-skill-learning?type=activity)
 
-
 ## [Logistics-System-Simulator](https://github.com/AHAzbh/Logistics-System-Simulator)
 
 ### 成员
@@ -339,7 +339,6 @@
 ![participant](http://github.zhangqx.com/data/github/AHAzbh/Logistics-System-Simulator?type=participant)
 ![follower](http://github.zhangqx.com/data/github/AHAzbh/Logistics-System-Simulator?type=follower)
 ![activity](http://github.zhangqx.com/data/github/AHAzbh/Logistics-System-Simulator?type=activity)
-
 
 ## [tong-shao/pkuopenlearning](https://github.com/tong-shao/pkuopenlearning)
 
@@ -389,7 +388,7 @@
 
 ### 成员
 
-[@softwareX4](https://github.com/softwareX4)  [@lypnaruto](https://github.com/lypnaruto) [@zbtzbtzbt](https://github.com/zbtzbtzbt) [@Wangyx-Max](https://github.com/Wangyx-Max)  [@jaydu08](https://github.com/jaydu08) [@yumingyue98](https://github.com/yumingyue98) [@deeryizhixiaolu](https://github.com/deeryizhixiaolu) [@ljcbling](https://github.com/ljcbling) [@HaarlemTHU  ]( https://github.com/HaarlemTHU ) [@monday2222](https://github.com/monday2222)
+[@softwareX4](https://github.com/softwareX4) [@lypnaruto](https://github.com/lypnaruto) [@zbtzbtzbt](https://github.com/zbtzbtzbt) [@Wangyx-Max](https://github.com/Wangyx-Max) [@jaydu08](https://github.com/jaydu08) [@yumingyue98](https://github.com/yumingyue98) [@deeryizhixiaolu](https://github.com/deeryizhixiaolu) [@ljcbling](https://github.com/ljcbling) [@HaarlemTHU ](https://github.com/HaarlemTHU) [@monday2222](https://github.com/monday2222)
 
 ### 文件状态检查
 
@@ -496,7 +495,6 @@
 ![follower](http://github.zhangqx.com/data/github/Skyseaee/TinyGame-Java?type=follower)
 ![activity](http://github.zhangqx.com/data/github/Skyseaee/TinyGame-Java?type=activity)
 
-
 ## [PKUnicorn](https://github.com/PerfectBlue-ly/PKUnicorn)
 
 ### 成员
@@ -516,6 +514,7 @@
 ![coc](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=Code_of_Conduct.md)
 ![codestyle](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=contributions/codestyle.md)
 ![pulltemplate](http://github.zhangqx.com/file-checker/github/PerfectBlue-ly/PKUnicorn?path=.github/PULL_REQUEST_TEMPLATE.md)
+
 ### 项目数据统计
 
 ![contributor](http://github.zhangqx.com/data/github/PerfectBlue-ly/PKUnicorn?type=contributor)
@@ -544,8 +543,8 @@
 ![license](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=LICENSE)
 ![readme](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=README.md)
 ![contributing](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=CONTRIBUTING.md)
-![coc](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=Code_of_Conduct.md)
-![codestyle](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=contributions/codestyle.md)
+![coc](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=CODE_OF_CONDUCT.md)
+![codestyle](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=contributions/CODE_STYLE.md)
 ![pulltemplate](http://github.zhangqx.com/file-checker/github/Reallizerule/CS_Studynote?path=.github/PULL_REQUEST_TEMPLATE.md)
 ### 项目数据统计
 
@@ -553,4 +552,6 @@
 ![participant](http://github.zhangqx.com/data/github/Reallizerule/CS_Studynote?type=participant)
 ![follower](http://github.zhangqx.com/data/github/Reallizerule/CS_Studynote?type=follower)
 ![activity](http://github.zhangqx.com/data/github/Reallizerule/CS_Studynote?type=activity)
+
+=======
 
