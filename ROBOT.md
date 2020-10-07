@@ -9,7 +9,7 @@
 安装步骤为
 
 - 打开[机器人主页](https://github.com/apps/oss-mentor-bot)
-- 点击 `Configure` 按钮
+- 点击 `Install` 按钮
 - 选择要安装的账号或组织，即你的项目做在的账号或组织
 - ***选择 `Only select repositories`，并在下拉菜单中选择要安装的项目，切记不要在所有项目上安装***
 - 点击 `Install` 进行安装即可 
